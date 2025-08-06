@@ -51,3 +51,9 @@ console.log(5 < 3); // false
 console.log(5 >= 5); // true
 console.log(5 <= 3); // false
 console.log(5 >= 3); // true
+
+//Logical Operators
+console.log(5 > 3 && 8 > 5); // true
+console.log(5 > 3 && 8 < 5); // false
+console.log(5 > 3 || 8 < 5); // true
+console.log(5 < 7 || 15 < 9); // false
